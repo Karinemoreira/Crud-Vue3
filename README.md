@@ -1,24 +1,14 @@
-# crud_vue
+# Crud em Vue3
 
-## Project setup
+## Desafio Operand
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Criar um Crud em Vue e usar uma ferramenta de versionamento.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Deploy
+https://crudvue3.web.app/#/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Ferramentas
+Vue3
+Bootstrap
+Firebase
