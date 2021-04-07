@@ -9,6 +9,8 @@ Criar um Crud em Vue e usar uma ferramenta de versionamento.
 https://crudvue3.web.app/#/
 
 ### Ferramentas
-Vue3
-Bootstrap
-Firebase
+<ul>
+<li>Vue3</li>
+<li>Bootstrap</li>
+<li>Firebase</li>
+</ul>
